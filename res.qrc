@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>music/爱情废柴.mp3</file>
+        <file>music/搁浅.mp3</file>
+        <file>music/花海.mp3</file>
+        <file>music/龙卷风.mp3</file>
+        <file>music/七里香.mp3</file>
+        <file>music/青花瓷.mp3</file>
+        <file>music/夜曲.mp3</file>
+        <file>music/一路向北.mp3</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/picture">
+        <file>picture/style.qss</file>
+        <file>picture/begin.png</file>
+        <file>picture/last.png</file>
+        <file>picture/next.png</file>
+        <file>picture/pause.png</file>
+        <file>picture/file.png</file>
+        <file>picture/circle.png</file>
+        <file>picture/back.png</file>
+        <file>picture/lback.png</file>
+        <file>picture/ai_qing_fei_chai.png</file>
+        <file>picture/ge_qian.png</file>
+        <file>picture/hua_hai.png</file>
+        <file>picture/long_juan_feng.png</file>
+        <file>picture/qi_li_xiang.png</file>
+        <file>picture/qing_hua_ci.png</file>
+        <file>picture/ye_qu.png</file>
+        <file>picture/yi_lu_xiang_bei.png</file>
+        <file>picture/vulome.png</file>
+        <file>picture/libary.png</file>
+    </qresource>
+</RCC>

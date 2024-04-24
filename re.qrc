@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/new/sound">
+        <file>music/ai_qing_fei_chai.mp3</file>
+        <file>music/ge_qian.mp3</file>
+        <file>music/hua_hai.mp3</file>
+        <file>music/long_juan_feng.mp3</file>
+        <file>music/qing_hua_ci.mp3</file>
+        <file>music/ye_qu.mp3</file>
+        <file>music/yi_lu_xiang_bei.mp3</file>
+        <file>music/qi_li_xiang.ogg</file>
+        <file>music/ai_qing_fei_chai.lrc</file>
+        <file>music/ge_qian.lrc</file>
+        <file>music/hua_hai.lrc</file>
+        <file>music/long_juan_feng.lrc</file>
+        <file>music/qi_li_xiang.lrc</file>
+        <file>music/qing_hua_ci.lrc</file>
+        <file>music/ye_qu.lrc</file>
+        <file>music/yi_lu_xiang_bei.lrc</file>
+    </qresource>
+</RCC>
